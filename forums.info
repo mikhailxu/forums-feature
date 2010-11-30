@@ -1,0 +1,4 @@
+core = "6.x"
+description = "This is the forum discussion area"
+name = "Forums"
+package = "Features"
